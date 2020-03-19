@@ -1,6 +1,6 @@
 # Hello-World
 Just a repository
 
-Hello, Humans ~.~
+Hello, Humans!
 
 I will do something here.
